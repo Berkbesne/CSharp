@@ -1,0 +1,15 @@
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.exe
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.deps.json
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.json
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.dll
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\bin\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.pdb
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.dll
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\obj\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.pdb
+C:\Users\Berk\source\repos\CSharp\donguler-while-foreach\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.genruntimeconfig.cache
