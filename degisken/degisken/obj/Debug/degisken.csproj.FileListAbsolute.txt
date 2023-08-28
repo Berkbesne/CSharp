@@ -1,7 +1,0 @@
-C:\Users\Berk\source\repos\CSharp\degisken\degisken\bin\Debug\degisken.exe.config
-C:\Users\Berk\source\repos\CSharp\degisken\degisken\bin\Debug\degisken.exe
-C:\Users\Berk\source\repos\CSharp\degisken\degisken\bin\Debug\degisken.pdb
-C:\Users\Berk\source\repos\CSharp\degisken\degisken\obj\Debug\degisken.csproj.AssemblyReference.cache
-C:\Users\Berk\source\repos\CSharp\degisken\degisken\obj\Debug\degisken.csproj.CoreCompileInputs.cache
-C:\Users\Berk\source\repos\CSharp\degisken\degisken\obj\Debug\degisken.exe
-C:\Users\Berk\source\repos\CSharp\degisken\degisken\obj\Debug\degisken.pdb
