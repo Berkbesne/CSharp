@@ -1,0 +1,15 @@
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\bin\Debug\net5.0\Tip-dönüşümü.exe
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\bin\Debug\net5.0\Tip-dönüşümü.deps.json
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\bin\Debug\net5.0\Tip-dönüşümü.runtimeconfig.json
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\bin\Debug\net5.0\Tip-dönüşümü.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\bin\Debug\net5.0\Tip-dönüşümü.dll
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\bin\Debug\net5.0\ref\Tip-dönüşümü.dll
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\bin\Debug\net5.0\Tip-dönüşümü.pdb
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\obj\Debug\net5.0\Tip-dönüşümü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\obj\Debug\net5.0\Tip-dönüşümü.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\obj\Debug\net5.0\Tip-dönüşümü.AssemblyInfo.cs
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\obj\Debug\net5.0\Tip-dönüşümü.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\obj\Debug\net5.0\Tip-dönüşümü.dll
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\obj\Debug\net5.0\ref\Tip-dönüşümü.dll
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\obj\Debug\net5.0\Tip-dönüşümü.pdb
+C:\Users\Berk\source\repos\CSharp\Tip-dönüşümü\Tip-dönüşümü\obj\Debug\net5.0\Tip-dönüşümü.genruntimeconfig.cache
