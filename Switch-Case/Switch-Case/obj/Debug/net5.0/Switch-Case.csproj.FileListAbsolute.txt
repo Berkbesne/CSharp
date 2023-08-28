@@ -1,0 +1,15 @@
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\obj\Debug\net5.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\obj\Debug\net5.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\obj\Debug\net5.0\Switch-Case.AssemblyInfo.cs
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\obj\Debug\net5.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\bin\Debug\net5.0\Switch-Case.exe
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\bin\Debug\net5.0\Switch-Case.deps.json
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\bin\Debug\net5.0\Switch-Case.runtimeconfig.json
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\bin\Debug\net5.0\Switch-Case.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\bin\Debug\net5.0\Switch-Case.dll
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\bin\Debug\net5.0\ref\Switch-Case.dll
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\bin\Debug\net5.0\Switch-Case.pdb
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\obj\Debug\net5.0\Switch-Case.dll
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\obj\Debug\net5.0\ref\Switch-Case.dll
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\obj\Debug\net5.0\Switch-Case.pdb
+C:\Users\Berk\source\repos\CSharp\Switch-Case\Switch-Case\obj\Debug\net5.0\Switch-Case.genruntimeconfig.cache
