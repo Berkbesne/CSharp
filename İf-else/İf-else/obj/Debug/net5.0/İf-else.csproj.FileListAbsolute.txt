@@ -1,0 +1,15 @@
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\bin\Debug\net5.0\İf-else.exe
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\bin\Debug\net5.0\İf-else.deps.json
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\bin\Debug\net5.0\İf-else.runtimeconfig.json
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\bin\Debug\net5.0\İf-else.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\bin\Debug\net5.0\İf-else.dll
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\bin\Debug\net5.0\ref\İf-else.dll
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\bin\Debug\net5.0\İf-else.pdb
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\obj\Debug\net5.0\İf-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\obj\Debug\net5.0\İf-else.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\obj\Debug\net5.0\İf-else.AssemblyInfo.cs
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\obj\Debug\net5.0\İf-else.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\obj\Debug\net5.0\İf-else.dll
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\obj\Debug\net5.0\ref\İf-else.dll
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\obj\Debug\net5.0\İf-else.pdb
+C:\Users\Berk\source\repos\CSharp\İf-else\İf-else\obj\Debug\net5.0\İf-else.genruntimeconfig.cache
