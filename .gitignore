@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Methods_Overloading/.vs/Methods_Overloading/FileContentIndex
+/Methods_Overloading/Methods_Overloading/obj/Debug/net5.0/Methods_Overloading.assets.cache
+/Methods_Overloading/Methods_Overloading/obj/Debug/net5.0/Methods_Overloading.GeneratedMSBuildEditorConfig.editorconfig
