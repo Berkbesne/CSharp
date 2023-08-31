@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\bin\Debug\net7.0\Algorithm_Questions1.exe
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\bin\Debug\net7.0\Algorithm_Questions1.deps.json
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\bin\Debug\net7.0\Algorithm_Questions1.runtimeconfig.json
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\bin\Debug\net7.0\Algorithm_Questions1.dll
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\bin\Debug\net7.0\Algorithm_Questions1.pdb
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\Algorithm_Questions1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\Algorithm_Questions1.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\Algorithm_Questions1.AssemblyInfo.cs
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\Algorithm_Questions1.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\Algorithm_Questions1.dll
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\refint\Algorithm_Questions1.dll
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\Algorithm_Questions1.pdb
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\Algorithm_Questions1.genruntimeconfig.cache
+C:\Users\Berk\source\repos\CSharp\Algorithm Questions\Algorithm_Questions1\obj\Debug\net7.0\ref\Algorithm_Questions1.dll
