@@ -1,0 +1,15 @@
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\Berk\source\repos\CSharp\Array\Methods\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
