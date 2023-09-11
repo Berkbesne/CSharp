@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\bin\Debug\net7.0\Collections_Questions2.exe
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\bin\Debug\net7.0\Collections_Questions2.deps.json
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\bin\Debug\net7.0\Collections_Questions2.runtimeconfig.json
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\bin\Debug\net7.0\Collections_Questions2.dll
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\bin\Debug\net7.0\Collections_Questions2.pdb
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\Collections_Questions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\Collections_Questions2.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\Collections_Questions2.AssemblyInfo.cs
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\Collections_Questions2.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\Collections_Questions2.dll
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\refint\Collections_Questions2.dll
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\Collections_Questions2.pdb
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\Collections_Questions2.genruntimeconfig.cache
+C:\Users\Berk\source\repos\CSharp\Collections_Questions\Collections_Questions2\obj\Debug\net7.0\ref\Collections_Questions2.dll
