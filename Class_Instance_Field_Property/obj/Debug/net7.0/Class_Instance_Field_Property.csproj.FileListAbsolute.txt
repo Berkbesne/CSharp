@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\bin\Debug\net7.0\Class_Instance_Field_Property.exe
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\bin\Debug\net7.0\Class_Instance_Field_Property.deps.json
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\bin\Debug\net7.0\Class_Instance_Field_Property.runtimeconfig.json
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\bin\Debug\net7.0\Class_Instance_Field_Property.dll
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\bin\Debug\net7.0\Class_Instance_Field_Property.pdb
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\Class_Instance_Field_Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\Class_Instance_Field_Property.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\Class_Instance_Field_Property.AssemblyInfo.cs
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\Class_Instance_Field_Property.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\Class_Instance_Field_Property.dll
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\refint\Class_Instance_Field_Property.dll
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\Class_Instance_Field_Property.pdb
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\Class_Instance_Field_Property.genruntimeconfig.cache
+C:\Users\Berk\source\repos\CSharp\Class_Instance_Field_Property\obj\Debug\net7.0\ref\Class_Instance_Field_Property.dll
