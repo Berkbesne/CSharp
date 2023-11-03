@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\ReverseToText\bin\Debug\net7.0\ReverseToText.exe
+C:\Users\Berk\source\repos\ReverseToText\bin\Debug\net7.0\ReverseToText.deps.json
+C:\Users\Berk\source\repos\ReverseToText\bin\Debug\net7.0\ReverseToText.runtimeconfig.json
+C:\Users\Berk\source\repos\ReverseToText\bin\Debug\net7.0\ReverseToText.dll
+C:\Users\Berk\source\repos\ReverseToText\bin\Debug\net7.0\ReverseToText.pdb
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\ReverseToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\ReverseToText.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\ReverseToText.AssemblyInfo.cs
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\ReverseToText.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\ReverseToText.dll
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\refint\ReverseToText.dll
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\ReverseToText.pdb
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\ReverseToText.genruntimeconfig.cache
+C:\Users\Berk\source\repos\ReverseToText\obj\Debug\net7.0\ref\ReverseToText.dll
