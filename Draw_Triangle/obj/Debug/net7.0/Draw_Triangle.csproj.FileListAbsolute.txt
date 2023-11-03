@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\Draw_Triangle\bin\Debug\net7.0\Draw_Triangle.exe
+C:\Users\Berk\source\repos\Draw_Triangle\bin\Debug\net7.0\Draw_Triangle.deps.json
+C:\Users\Berk\source\repos\Draw_Triangle\bin\Debug\net7.0\Draw_Triangle.runtimeconfig.json
+C:\Users\Berk\source\repos\Draw_Triangle\bin\Debug\net7.0\Draw_Triangle.dll
+C:\Users\Berk\source\repos\Draw_Triangle\bin\Debug\net7.0\Draw_Triangle.pdb
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\Draw_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\Draw_Triangle.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\Draw_Triangle.AssemblyInfo.cs
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\Draw_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\Draw_Triangle.dll
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\refint\Draw_Triangle.dll
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\Draw_Triangle.pdb
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\Draw_Triangle.genruntimeconfig.cache
+C:\Users\Berk\source\repos\Draw_Triangle\obj\Debug\net7.0\ref\Draw_Triangle.dll
