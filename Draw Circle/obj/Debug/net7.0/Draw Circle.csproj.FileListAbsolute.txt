@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\Draw Circle\bin\Debug\net7.0\Draw Circle.exe
+C:\Users\Berk\source\repos\Draw Circle\bin\Debug\net7.0\Draw Circle.deps.json
+C:\Users\Berk\source\repos\Draw Circle\bin\Debug\net7.0\Draw Circle.runtimeconfig.json
+C:\Users\Berk\source\repos\Draw Circle\bin\Debug\net7.0\Draw Circle.dll
+C:\Users\Berk\source\repos\Draw Circle\bin\Debug\net7.0\Draw Circle.pdb
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\Draw Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\Draw Circle.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\Draw Circle.AssemblyInfo.cs
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\Draw Circle.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\Draw Circle.dll
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\refint\Draw Circle.dll
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\Draw Circle.pdb
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\Draw Circle.genruntimeconfig.cache
+C:\Users\Berk\source\repos\Draw Circle\obj\Debug\net7.0\ref\Draw Circle.dll
