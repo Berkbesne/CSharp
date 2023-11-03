@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\algorithm_Question\bin\Debug\net7.0\algorithm_Question.exe
+C:\Users\Berk\source\repos\algorithm_Question\bin\Debug\net7.0\algorithm_Question.deps.json
+C:\Users\Berk\source\repos\algorithm_Question\bin\Debug\net7.0\algorithm_Question.runtimeconfig.json
+C:\Users\Berk\source\repos\algorithm_Question\bin\Debug\net7.0\algorithm_Question.dll
+C:\Users\Berk\source\repos\algorithm_Question\bin\Debug\net7.0\algorithm_Question.pdb
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\algorithm_Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\algorithm_Question.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\algorithm_Question.AssemblyInfo.cs
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\algorithm_Question.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\algorithm_Question.dll
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\refint\algorithm_Question.dll
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\algorithm_Question.pdb
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\algorithm_Question.genruntimeconfig.cache
+C:\Users\Berk\source\repos\algorithm_Question\obj\Debug\net7.0\ref\algorithm_Question.dll
