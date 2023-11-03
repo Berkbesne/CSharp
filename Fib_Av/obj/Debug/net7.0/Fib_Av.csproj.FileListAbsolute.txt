@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\Fib_Av\bin\Debug\net7.0\Fib_Av.exe
+C:\Users\Berk\source\repos\Fib_Av\bin\Debug\net7.0\Fib_Av.deps.json
+C:\Users\Berk\source\repos\Fib_Av\bin\Debug\net7.0\Fib_Av.runtimeconfig.json
+C:\Users\Berk\source\repos\Fib_Av\bin\Debug\net7.0\Fib_Av.dll
+C:\Users\Berk\source\repos\Fib_Av\bin\Debug\net7.0\Fib_Av.pdb
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\Fib_Av.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\Fib_Av.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\Fib_Av.AssemblyInfo.cs
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\Fib_Av.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\Fib_Av.dll
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\refint\Fib_Av.dll
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\Fib_Av.pdb
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\Fib_Av.genruntimeconfig.cache
+C:\Users\Berk\source\repos\Fib_Av\obj\Debug\net7.0\ref\Fib_Av.dll
