@@ -1,11 +1,14 @@
-﻿string n=Console.ReadLine();
-string[] a = n.Split(' ');
+﻿
+string n = Console.ReadLine();
+string[] arr = n.Split(' ');
 
-
-for (int i = 0; i < a.Length; i++)
+string rest = string.Join(" ", arr.Skip(1));
+for (int i = 0; i < arr.Length; i++)
 {
-    char[] charArray = a[i].ToCharArray();
+    char[] charArray = arr[i].ToCharArray();
     Array.Reverse(charArray);
     string reversedWord = new string(charArray);
-    Console.WriteLine(reversedWord);
+    Console.Write(reversedWord + " ");
 }
+
+
